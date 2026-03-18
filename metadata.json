@@ -1,0 +1,5 @@
+{
+  "name": "Smart Compost Bin Dashboard",
+  "description": "Real-time monitoring and automated control for smart composting with 8-hour scheduled mixing.",
+  "requestFramePermissions": []
+}
